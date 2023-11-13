@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .ct1{
+            border:2px solid black;
+            height:100px;
+            margin: 40px;
+            padding:5px 5px 20px;
+            background-color: orange;
+        }
+        .ct2{
+            border:2px double black;
+            height:100px;
+            margin: 40px;
+            padding: 5px 5px 5px 250px;
+            background-color: aqua;
+           
+            
+        }
+        .ct3{
+            border: 2px dashed black;
+            height:100px;
+            margin: 40px;
+            padding: 5px 5px 5px 350px;
+            background-color: brown;
+           
+        
+        }
+        .ct4{
+             border: 2px dotted black;
+            height:100px;
+             margin:40px;
+             padding: 5px 5px 5px 500px;
+             background-color: darkgoldenrod;
+         
+            
+            
+        }
+        .sp1{
+            background-color: antiquewhite;
+            width: 10px;
+            padding:0px 40px 2px 5px;
+        }
+        .sp2{
+            background-color: antiquewhite;
+            width: 10px;
+            padding:0px 40px 2px 5px;
+        }
+        .sp3{
+            background-color: antiquewhite;
+            width: 10px;
+            padding:0px 45px 2px 5px;
+        }
+        .sp4{
+            background-color: antiquewhite;
+            width: 10px;
+            padding:0px 55px 2px 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="ct1">
+        <div class="sp1">CSS</div>
+    </div>
+    <div class="ct2">
+        <div class="sp2">JAVA</div>
+    </div>
+     <div class="ct3">
+        <div class="sp3">REACT</div>
+     </div>
+     <div class="ct4">
+        <div class="sp4">PYTHON</div> 
+     </div>
+</body>
+    
+
+</html>
